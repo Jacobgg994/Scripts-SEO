@@ -1,1 +1,2 @@
 # Scripts-SEO\n\nRepository for storing automation scripts and SEO/AEO optimization strategies.
+## Contents\n- [Social Media Strategy](SOCIAL_MEDIA_STRATEGY.md): Strategies for Social Media Awareness and Traffic (Indonesia).\n- [Website SEO & AEO Strategy](WEBSITE_SEO_AEO.md): Core concepts of Search and Answer Engine Optimization.\n- [Genlogin Marketing Automation Proposal](Genlogin-Marketing-Automation.md): Technical plan for automated distribution using Genlogin.
